@@ -1,0 +1,10 @@
+.divider{
+    border-bottom: 2px solid;
+    border-color: rgb(155, 155, 155);
+    margin-bottom: 10px;
+    padding-bottom: 0;
+    margin-top: 20px;
+}
+body{
+    background-color: rgb(187, 187, 187);
+}
