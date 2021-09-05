@@ -8,3 +8,18 @@
 body{
     background-color: rgb(187, 187, 187);
 }
+#cara{
+    position: absolute;
+    top: 102%;
+
+}
+li.active{
+    border: solid 2px !important;
+    border-color:purple !important;
+    margin-top: 8px;
+    height: 1px;
+   
+}
+.box{
+    height: 5vh;
+}
